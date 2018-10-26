@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApiSecurityExample2", "WebApiSecurityExample2.csproj", "{06FC8C87-1B78-46F3-9E14-368FE54A6038}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		PREPROD|Any CPU = PREPROD|Any CPU
+		PROD|Any CPU = PROD|Any CPU
+		Release|Any CPU = Release|Any CPU
+		SAND|Any CPU = SAND|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06FC8C87-1B78-46F3-9E14-368FE54A6038}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06FC8C87-1B78-46F3-9E14-368FE54A6038}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06FC8C87-1B78-46F3-9E14-368FE54A6038}.PREPROD|Any CPU.ActiveCfg = PREPROD|Any CPU
+		{06FC8C87-1B78-46F3-9E14-368FE54A6038}.PREPROD|Any CPU.Build.0 = PREPROD|Any CPU
+		{06FC8C87-1B78-46F3-9E14-368FE54A6038}.PROD|Any CPU.ActiveCfg = PROD|Any CPU
+		{06FC8C87-1B78-46F3-9E14-368FE54A6038}.PROD|Any CPU.Build.0 = PROD|Any CPU
+		{06FC8C87-1B78-46F3-9E14-368FE54A6038}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06FC8C87-1B78-46F3-9E14-368FE54A6038}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06FC8C87-1B78-46F3-9E14-368FE54A6038}.SAND|Any CPU.ActiveCfg = SAND|Any CPU
+		{06FC8C87-1B78-46F3-9E14-368FE54A6038}.SAND|Any CPU.Build.0 = SAND|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0630677B-0CA5-44DD-9289-297877AF0D08}
+	EndGlobalSection
+EndGlobal
